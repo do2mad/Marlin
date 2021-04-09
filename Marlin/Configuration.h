@@ -41,7 +41,7 @@
 // #define D01_V8_220_TITAN_TMC_NO_ABL 1
 
 // XY2 Thanks to Emmanuel Hayez!
-// #define XY2_V6_255_NO_TITAN_TMC 1
+#define XY2_V6_255_NO_TITAN_TMC 1
 // #define XY2_V6_255_TITAN_TMC 1
 // #define XY2_V6_255_BMG_TMC 1
 // #define XY2_V6_255M_BMG_TMC 1
